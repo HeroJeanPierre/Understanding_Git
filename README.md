@@ -1,2 +1,2 @@
 # Understanding_Git
-This will be used to practice and understand gitl.
+This will be used to practice and understand git.
